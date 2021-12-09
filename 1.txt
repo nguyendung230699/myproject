@@ -1,1 +1,2 @@
 Noi dung 1
+ - lenh git checkout, git branch

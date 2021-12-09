@@ -1,1 +1,3 @@
 Noi dung 2
+
+sua loi 2.txt

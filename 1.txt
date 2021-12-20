@@ -1,7 +1,0 @@
-Noi dung 1
-<<<<<<< HEAD
-
-sua loi abd
-=======
- - lenh git checkout, git branch
->>>>>>> alpha

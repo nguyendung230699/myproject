@@ -1,8 +1,8 @@
 #include<stdio.h>
-
-void main()
+ int i,s=0,n;
+main()
 {
-    int i,s=0,n;
+   
     printf("Nhap n:");
     scanf("%d",&n);
     for(i=1;i<n;i++)
